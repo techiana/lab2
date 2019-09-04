@@ -33,5 +33,5 @@ Lets collaboraters know what changes you have made
 
 
 ### Change this image to be something else with different alt data
-<iframe src="https://giphy.com/embed/ibrqv2h0g4VRC" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/minions-movieclips-trailer-ibrqv2h0g4VRC">via GIPHY</a></p>
+https://media3.giphy.com/media/oMCNFgAqqFdjq/source.gif
 
